@@ -1,2 +1,5 @@
 #ingore DS STORE
 *.DS_STORE
+
+# Ignore pycache
+*pycache*
